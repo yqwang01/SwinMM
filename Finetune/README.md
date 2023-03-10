@@ -25,7 +25,6 @@ bash ./scripts/start_redis.sh
 - First epoch after launch the server maybe slow, should be fast later
 - Set `--redis_ports <ports>` according to your redis setup.
 
-### FIXME(outdated)
 
 ```bash
 python main.py
@@ -48,7 +47,6 @@ python main.py
 
 ## Testing
 
-### FIXME(outdated)
 
 ```bash
 python test.py
